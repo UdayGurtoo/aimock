@@ -31,14 +31,17 @@
     "tailwindcss-animate": "^1.0.7",
     "zod": "^3.24.2"
   },
+  "engines": {
+    "node": "18.x"
+  },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "eslint": "^9",
-    "eslint-config-next": "15.2.2",
+    "eslint": "^9.34.0",
+    "eslint-config-next": "^15.5.2",
     "tailwindcss": "^4",
     "typescript": "^5"
   }
